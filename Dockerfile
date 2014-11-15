@@ -1,4 +1,4 @@
-FROM 58f04988bdd8
+FROM droid42/dind-java8
 
 RUN apt-get update
 RUN apt-get install -y git
